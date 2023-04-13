@@ -19,7 +19,7 @@ command=Next&Username=%24dc1&DomainName=xxxx.xxxx&ReCaptchaPublicKey=6LxOW5_v5AH
 
 ### Weaponization
 
-To abuse these POST Request Reflected XSS, you may pair it with a CSRF attack.
+To abuse the POST Request Reflected XSS, you may pair it with a CSRF attack.
 
 Create a page on your domain that you control with the following contents:
 - Note: Change the form action URL to the target, and DomainName variable.
@@ -42,9 +42,9 @@ Create a page on your domain that you control with the following contents:
 </html>
 ```
 
-Anything in the recaptcha response get's reflected. So you will send a phishing link to your victim to your website which will redirect the post request to the website, thus grabbing it's cookies.
+Anything in the recaptcha response get's reflected. So you will send a phishing link to your victim to your website which will redirect the post request to the website, thus running javascript on the victims browser.
 
-I will leave it up to your imagination to do what you'd like with your payload. :)
+I will leave it up to your imagination to do what you'd like with your payload. In my engagement, I wrote a proof of concept and created my own login form, while hiding the real one, courcing the user to login into it.
 
 ## Recaptcha Bypass
 
