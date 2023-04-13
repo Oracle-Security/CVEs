@@ -1,3 +1,5 @@
+Vendor was emailed several times to fix this, no replies. 90 days was provided to fix the issue from my first email.
+
 I was unable to view the version of this application. However, here is a list of vulnerabilities for the application:
 
 ## Reflected XSS
