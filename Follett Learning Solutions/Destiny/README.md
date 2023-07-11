@@ -1,5 +1,7 @@
 ﻿## Reflected XSS Injection
 
+The Destiny application by Follet Learning Solutions has a reflected XSS Injection in versions up to 20.0_1U. Today, I will provide the weaponization process of the Reflected XSS Injection to showcase how to abuse it.
+
 Firstly, make sure your school ID has been set to the school that contains the search functions. It is in your cookie. You can socially engineer your victim to click on the proper school first anyways.
 
 Reflected XSS - VERSION > 20.0_1
