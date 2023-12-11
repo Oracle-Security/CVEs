@@ -9,5 +9,7 @@ I am not responsible for any mis-use of anything in this repository. These are p
 ## CVE-List
 
 CVE-2023-38826
+
 CVE-2023-38827
+
 CVE-2018-14486
