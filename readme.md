@@ -4,12 +4,13 @@ As stated in the description. Should exploits work against a live version of a p
 
 ## Disclaimer:
 
-I am not responsible for any mis-use of anything in this repository. These are purely for the purpose of helping security professionals secure their environment, along with helping other authorized penetration testers in their engagements. I am not responsible for any illegal use of these scripts.
+I am not responsible for any misuse of anything in this repository. These are purely for the purpose of helping security professionals secure their environment, along with assisting other authorized penetration testers in their engagements. I am not responsible for any illegal use of these scripts.
 
 ## CVE-List
 
-CVE-2023-38826
+* CVE-2023-38826
+* CVE-2023-38827
+* CVE-2018-14486
+* CVE-2023-45893
+* CVE-2023-45894
 
-CVE-2023-38827
-
-CVE-2018-14486
