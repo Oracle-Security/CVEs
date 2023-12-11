@@ -11,6 +11,6 @@ I am not responsible for any misuse of anything in this repository. These are pu
 * CVE-2023-38826
 * CVE-2023-38827
 * CVE-2018-14486
+* CVE-2023-45892
 * CVE-2023-45893
 * CVE-2023-45894
-
