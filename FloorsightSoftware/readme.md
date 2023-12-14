@@ -1,10 +1,10 @@
 ## CVE-2023-45892
 
-Name of Product: Insights by Floorsight
-The affected or fixed version(s): Versions from Q3 2023 and below (There are no version numbers)
-The CVE ID for the entry: CVE-2023-45892
-Description: This vulnerability allows a remote attacker to access invoices and orders while unauthenticated. There are no access controls to access these pages.
-Vulnerability Type: Insecure Direct Object Reference
+* Name of Product: Insights by Floorsight
+* The affected or fixed version(s): Versions from Q3 2023 and below (There are no version numbers)
+* The CVE ID for the entry: CVE-2023-45892
+* Description: This vulnerability allows a remote attacker to access invoices and orders while unauthenticated. There are no access controls to access these pages.
+* Vulnerability Type: Insecure Direct Object Reference
 
 ### Proof of Concept
 Invoices and Orders are accessible unauthenticated:
@@ -14,11 +14,11 @@ Invoices and Orders are accessible unauthenticated:
 
 ## CVE-2023-45893
 
-Name of Product: Customer Portal by Floorsight
-The affected or fixed version(s): Versions from Q3 2023 and below (There are no version numbers)
-The CVE ID for the entry: CVE-2023-45893
-Description: This vulnerability allows a remote attacker to access several sensitive pages while unauthenticated. There are no access controls to access these pages.
-Vulnerability Type: Insecure Direct Object Reference
+* Name of Product: Customer Portal by Floorsight
+* The affected or fixed version(s): Versions from Q3 2023 and below (There are no version numbers)
+* The CVE ID for the entry: CVE-2023-45893
+* Description: This vulnerability allows a remote attacker to access several sensitive pages while unauthenticated. There are no access controls to access these pages.
+* Vulnerability Type: Insecure Direct Object Reference
 
 ### Proof of Concept
 
