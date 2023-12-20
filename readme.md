@@ -14,4 +14,5 @@ I am not responsible for any misuse of anything in this repository. These are pu
 * CVE-2023-45892
 * CVE-2023-45893
 * CVE-2023-45894
-* CVE-2023-2304 - WordPress/Favorites/CVE-2023-2304
+* CVE-2023-2304 - WordPress/Favorites/CVE-2023-2304.md
+* CVE-2023-6737 - WordPress/enable-media-replace/CVE-2023-6737.md
