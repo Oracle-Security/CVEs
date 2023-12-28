@@ -16,3 +16,18 @@ I am not responsible for any misuse of anything in this repository. These are pu
 * CVE-2023-45894
 * CVE-2023-2304 - WordPress/Favorites/CVE-2023-2304.md
 * CVE-2023-6737 - WordPress/enable-media-replace/CVE-2023-6737.md
+* CVE-2023-51062 - Qstar Archive Solutions/CVE-2023-51062.md
+* CVE-2023-51063 - Qstar Archive Solutions/CVE-2023-51063.md
+* CVE-2023-51064 - Qstar Archive Solutions/CVE-2023-51064.md
+* CVE-2023-51065 - Qstar Archive Solutions/CVE-2023-51065.md
+* CVE-2023-51066 - Qstar Archive Solutions/CVE-2023-51066.md
+* CVE-2023-51067 - Qstar Archive Solutions/CVE-2023-51067.md
+* CVE-2023-51068 - Qstar Archive Solutions/CVE-2023-51068.md
+* CVE-2023-51070 - Qstar Archive Solutions/CVE-2023-51070.md
+* CVE-2023-51071 - Qstar Archive Solutions/CVE-2023-51071.md
+
+
+> Notes for MITRE
+FIX DESCRIPTION IN CVE-2023-51063
+FIX DESCRIPTION IN CVE-2023-51064
+FIX CVE-2023-51066 (Should be code exec)
