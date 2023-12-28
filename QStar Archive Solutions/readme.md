@@ -1,0 +1,8 @@
+* ![CVE-2023-51062](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51062.md)
+* ![CVE-2023-51063](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51063.md)
+* ![CVE-2023-51064](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51064.md)
+* ![CVE-2023-51065](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51065.md)
+* ![CVE-2023-51067](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51067.md)
+* ![CVE-2023-51068](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51068.md)
+* ![CVE-2023-51070](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51070.md)
+* ![CVE-2023-51071](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51071.md)
