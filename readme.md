@@ -25,3 +25,4 @@ I am not responsible for any misuse of anything in this repository. These are pu
 * ![CVE-2023-51068](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51068.md)
 * ![CVE-2023-51070](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51070.md)
 * ![CVE-2023-51071](https://github.com/Oracle-Security/CVEs/blob/main/QStar%20Archive%20Solutions/CVE-2023-51071.md)
+* ![CVE-2023-49833](https://github.com/Oracle-Security/CVEs/blob/main/WordPress/spectra/CVE-2023-49833.md)
