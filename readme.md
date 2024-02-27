@@ -29,3 +29,4 @@ I am not responsible for any misuse of anything in this repository. These are pu
 * ![CVE-2024-1709](https://github.com/Oracle-Security/CVEs/blob/main/ConnectWise/CVE-2024-1709/readme.md)
 * ![CVE-2023-22111](https://github.com/Oracle-Security/CVEs/blob/main/TeamIA/CVE-2023-22111.md)
 * ![CVE-2023-22112](https://github.com/Oracle-Security/CVEs/blob/main/TeamIA/CVE-2023-22112.md)
+* ![CVE-2023-46823](https://github.com/Oracle-Security/CVEs/blob/main/WordPress/imagelinks-interactive-image-builder-lite/CVE-2023-46823.md)
