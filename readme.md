@@ -6,6 +6,8 @@ As stated in the description. Should exploits work against a live version of a p
 
 I am not responsible for any misuse of anything in this repository. These are purely for the purpose of helping security professionals secure their environment, along with assisting other authorized penetration testers in their engagements. I am not responsible for any illegal use of these scripts.
 
+Additionally, most CVEs are weaponized, I am not resposible if things don't work as intended and you break things.
+
 ## CVE-List
 
 * ![CVE-2023-38826](https://github.com/Oracle-Security/CVEs/tree/main/Follett%20Learning%20Solutions/Destiny/CVE-2023-38826)
