@@ -32,3 +32,4 @@ Additionally, most CVEs are weaponized, I am not resposible if things don't work
 * ![CVE-2023-22111](https://github.com/Oracle-Security/CVEs/blob/main/TeamIA/CVE-2023-22111.md)
 * ![CVE-2023-22112](https://github.com/Oracle-Security/CVEs/blob/main/TeamIA/CVE-2023-22112.md)
 * ![CVE-2023-46823](https://github.com/Oracle-Security/CVEs/blob/main/WordPress/imagelinks-interactive-image-builder-lite/CVE-2023-46823.md)
+* ![CVE-2023-5204](https://github.com/Oracle-Security/CVEs/blob/main/WordPress/chatbot/CVE-2023-5204.md)
