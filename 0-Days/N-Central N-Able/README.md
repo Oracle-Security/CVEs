@@ -1,5 +1,7 @@
 # Able2Shell - N-Central N-Able
 
+Disclaimer: I am not affiliated with Vector 35 or the product BinaryNinja in any way.
+
 All testing was done on the version "**N-able N-central Appliance 2026.4.0.31**" - This is a pre-release version and as such most if not all vulnerabilities should work on previous versions, including the most up to date version. At the time of posting all vulnerabilities work on the latest pre-release version and are unpatched.
 
 ## Contents
