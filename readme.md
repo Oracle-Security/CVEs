@@ -1,6 +1,6 @@
 ## Responsible Disclosure:
 
-As stated in the description. Should exploits work against a live version of a product, the vendor was contacted multiple times and given 90 days to fix the issue. They either 1.) Did not reply to any of my emails or 2.) Took too long to fix it and was unresponsive in letting me know when it is fixed.
+As stated in the description. Should exploits work against a live version of a product, the vendor was contacted multiple times and given 90 days to fix the issue. They either 1.) Did not reply to any of my emails or 2.) Took too long to fix it and was unresponsive in letting me know when it is fixed, or 3.) were unresponsive or took too long in previous responsible disclosures. 
 
 ## Disclaimer:
 
