@@ -2,6 +2,7 @@
 
 This folder contains the anonymous-to-root exploit chain verified against N-able N-central Appliance 2026.4.1.26 HF2 (`2026.4.1.26-b2026_4_1_26`). Just point it at an N-able server and it should one shot it.
 
+Legacy API needs to be enabled; Forgot this was turned on during earlier testing for other vulnerabilities.
 
 ### Anonymous Axis SOAP Fault to root RCE
 
